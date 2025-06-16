@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441440116674",
+    "project_id": "speakeasy-afdaa",
+    "storage_bucket": "speakeasy-afdaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441440116674:android:e091befcbe051a7fdec05b",
+        "android_client_info": {
+          "package_name": "com.slns.speakeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApl-qK7C4frpFY4qh7eAEn2rQ1IkpjsK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
